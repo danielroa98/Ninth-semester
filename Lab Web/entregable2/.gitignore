@@ -102,6 +102,3 @@ dist
 
 # TernJS port file
 .tern-port
-.vscode/settings.json
-Lab Web/entregable-1/package-lock.json
-Lab Web/class_31_aug/yarn.lock
