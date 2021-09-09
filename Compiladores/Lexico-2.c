@@ -256,6 +256,7 @@ printf("The file called demo.txt contains this text\n\n%s", buffer);
             break;
            
             case 8: //ASIG
+            //TODO -- verificar con Sebas si asi esta bien
                 if (buffer[i] == '=')
                 {
                     lexema[ind++] = buffer[i++];
