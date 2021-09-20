@@ -265,6 +265,11 @@ printf("The file called demo.txt contains this text\n\n%s", buffer);
                     imprimeToken(1);
                     edo = 1;
                     ind = 0;
+                }else{
+                    lexema[ind] = '\0';
+                    imprimeToken(1);
+                    edo = 1;
+                    ind = 0;
                 }
                 break;
         default:

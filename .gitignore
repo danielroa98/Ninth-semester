@@ -105,3 +105,9 @@ dist
 .vscode/settings.json
 Lab Web/entregable-1/package-lock.json
 Lab Web/class_31_aug/yarn.lock
+Compiladores/Primer parcial/Presentaciones/*
+
+*.doc
+*.docx
+
+*.out
